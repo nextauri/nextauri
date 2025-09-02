@@ -1,5 +1,10 @@
 {
   "recommendations": [
+    // Languages and frameworks.
+    "tauri-apps.tauri-vscode",
+    "tamasfe.even-better-toml",
+    "rust-lang.rust-analyzer",
+
     // Configurations.
     "redhat.vscode-yaml",
 

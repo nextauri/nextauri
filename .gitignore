@@ -14,3 +14,7 @@ build
 out
 next-env.d.ts
 tsconfig.tsbuildinfo
+
+# Cargo and tauri.
+target
+gen
