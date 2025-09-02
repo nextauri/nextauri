@@ -1,1 +1,7 @@
-packages: ["packages/*"]
+packages:
+  - examples/*
+  - packages/*
+
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - sharp
